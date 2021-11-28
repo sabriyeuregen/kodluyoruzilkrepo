@@ -1,10 +1,12 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası bir adet index.html dosyası barındırıyor
 
+[]()
+
 ## Installation
 Öncelikle projeyi clonelayın.
 
-[Öncelikle projeyi clonelayın.](https://github.com/sabriyeuregen/kodluyoruzilkrepo)
+![Öncelikle projeyi clonelayın.](C:\Users\hp\Desktop\kamp\kodluyoruzilkrepo-master)
  'git clone https://github.com/sabriyeuregen/kodluyoruzilkrepo
 
 ## Usage
