@@ -6,7 +6,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet READM
 ## Installation
 Öncelikle projeyi clonelayın.
 
-![Öncelikle projeyi clonelayın.](C:\Users\hp\Desktop\kamp\kodluyoruzilkrepo-master)
+![Öncelikle projeyi clonelayın.](file:///C:/Users/hp/Desktop/kamp/kodluyoruzilkrepo-master/git.png)
+ 
  'git clone https://github.com/sabriyeuregen/kodluyoruzilkrepo
 
 ## Usage
